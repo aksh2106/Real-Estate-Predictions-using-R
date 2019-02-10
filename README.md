@@ -1,7 +1,7 @@
 # real-estate-predictions-using-R
 Real Estate Housing Predictions in the city of Ames, Iowa using statistical modeling
 
-##Introduction
+##Introduction##
 
 ###Importance of the Problem
 In the highly competitive real estate industry, which boasts a monopoly of large brokerage firms, the small players need a considerable competitive advantage to stay relevant. In fact, individual sellers often fail to put a price on their property and most buyers struggle to shortlist a house based on a favorable trade-off between the characteristics that they look for in an ideal home and the price they are willing to pay. Even for a given location and time of the year, predicting trends in house prices is tough at the best.
